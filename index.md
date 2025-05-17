@@ -34,6 +34,10 @@ Here you'll find all the resources, rules, and updates you need to participate a
 
 ---
 
+## Rules for participants
+1. Maximum 2 participants can team-up
+---
+
 ## 🏆 Judging Criteria
 
 - **Innovation & Creativity**
