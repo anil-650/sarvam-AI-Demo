@@ -45,7 +45,7 @@ Here you'll find all the resources, rules, and updates you need to participate a
 ## 🕒 Schedule
 
 - **Inaguration:** 10:00 AM IST
-    - Addressed by *Abhinash Ghos*
+    - Addressed by *Abhinash Gosh*
 - **Status Call:** 11:00 AM IST
     - Participant Check-in
     - Participant's plan for contributions
@@ -55,7 +55,7 @@ Here you'll find all the resources, rules, and updates you need to participate a
     - Floor leads are to help Participant when ever they need
     - Status call every 2hrs with code check-in
 - **Submissions Due:** May 18, 10:00 PM IST, 2025
-    - Concluding Addressed by *Abhinash Ghos*
+    - Concluding Addressed by *Abhinash Gosh*
 - **Judging:** TO BE DECIDED
 - **Winners Announcement:** TO BE DECIDED
 
