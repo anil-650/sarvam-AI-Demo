@@ -29,7 +29,8 @@ Here you'll find all the resources, rules, and updates you need to participate a
 1. **Fork this repo** and start building your project.
 2. **Submit your project** using the [Project Submission Issue Template][hackathon-temp].
 3. **Report bugs or suggest features** using the respective templates.
-4. **Join the discussion** and collaborate with other participants.[]
+4. **Join the discussion** and collaborate with other
+   participants.[Discussion page][discussion-page]
 
 ---
 
