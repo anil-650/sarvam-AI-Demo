@@ -121,7 +121,7 @@ Improve the UI of the app
 - [React w3schools](https://www.w3schools.com/REACT/DEFAULT.ASP)
 - [W3schools all your web needs](https://www.w3schools.com/)
 - [Github tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
-
+- [vite tutorial to get started with react](https://vite.dev/guide/)
 ---
 
 Good luck and have fun! 🚀 If you have any questions, don’t hesitate to ask.
