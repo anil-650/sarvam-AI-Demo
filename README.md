@@ -1,5 +1,6 @@
-# Odia speech-to-speech demo
-This is a proof of concept for the Speec-to-Speech app created with React + Vite
+# ଓଡ଼ିଆ ଧ୍ୱନି-ରୁ-ଧ୍ୱନି ରୂପାନ୍ତରଣ
+# (Odia) Speech-to-Speech  Transformation
+A proof of concept for the Speech-to-Speech convertion application from source language ଓଡ଼ିଆ(Odia) to other languages starting with English. 
 
 [Visit our hackathon page here](https://anil-650.github.io/sarvam-AI-Demo/)
 ## HOW TO RUN THE DEMO
@@ -12,6 +13,11 @@ This is a proof of concept for the Speec-to-Speech app created with React + Vite
 
 ```sh
 git clone https://github.com/taufique-0105/sarvam-AI-Demo.git
+```
+
+Navigate to the Application folder 
+
+```sh
 cd sarvam-AI-Demo
 ```
 
@@ -22,10 +28,15 @@ cd sarvam-AI-Demo
 VITE_SARVAM_API_KEY=<YOUR KEYS GOES HERE>
 ```
 
-- Step-4: start dev sever
+- Step-4: install dependencies 
+
 ```sh
 npm install --frozen-lockfile
+```
 
+- Step-4.1: start dev sever
+
+```sh
 # with out host option like this you will get CORS error
 npm run dev -- --host
 ```
@@ -33,11 +44,15 @@ npm run dev -- --host
 - Step-5: for preview and deployment
 
 ```sh
-npm install --frozen-lockfile
-npm run build
 # this will put the output in the dist dir
 # which can be used by other programs like nginx to serve the build
+npm install --frozen-lockfile
+npm run build
+```
 
+Step-5: Preview Build 
+
+```sh
 # to preview build
 npm run preview -- --host
 ```
