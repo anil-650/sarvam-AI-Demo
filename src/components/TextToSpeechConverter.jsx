@@ -64,11 +64,16 @@ function TextToSpeechConverter() {
   return (
     <div className='text-center flex justify-center'>
       <div className='w-md shadow shadow-gray-400 p-8 flex flex-col items-center rounded-2xl'>
+      <select name="hall" id="language-s" value="Odia">
+        <option>Odia</option>
+        <option>English</option>
+        <option>Spanish</option>
+        <option>French</option>
+        <option>Chinese - Mandrin</option>
+      </select>
         <h1 className='text-2xl text-blue-500 py-5'>Text to Speech Converter</h1>
-       
         <p>API KEY STATUS: {KEY_LOAD_STATUS} </p>
         <p>Enter your text below and click "Convert to Speech"</p>
-
         <textarea className='border border-blue-200 p-2 rounded-2xl bg-gray-200 my-3'
           id="inputText"
           rows="5"
