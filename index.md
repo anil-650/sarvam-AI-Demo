@@ -4,6 +4,15 @@ Welcome to the official AI Fundamental Certification Hackathon event!
 Here you'll find all the resources, rules, and updates you need to participate and succeed.
 
 ---
+## Problem Statement
+
+Improve the UI of the app
+
+- Add a languange indicator
+- Add a audio play button
+- Transliteration for input text
+
+---
 
 ## 🗓️ Event Details
 
@@ -35,9 +44,16 @@ Here you'll find all the resources, rules, and updates you need to participate a
 ---
 
 ## Rules for participants
-1. Maximum 2 participants can team-up
----
+1. Maximum 3 participants can team-up
 
+## Teams
+
+1. Priyansu , Sanghamitra, Subhra (add a language indicator)
+2. Pravas, Madhumita (Add a voice play Button)
+
+
+---
+<!-- 
 ## 🏆 Judging Criteria
 
 - **Innovation & Creativity**
@@ -46,6 +62,7 @@ Here you'll find all the resources, rules, and updates you need to participate a
 - **Presentation/Demo**
 
 ---
+-->
 
 ## 🕒 Schedule
 
@@ -67,7 +84,6 @@ Here you'll find all the resources, rules, and updates you need to participate a
 ### ⏰ Status Call Timings
 
 - Today (May 17)
-    - 1:30 PM IST
     - 3:30 PM IST
     - 5:30 PM IST
     - 7:30 PM IST
@@ -101,6 +117,10 @@ Here you'll find all the resources, rules, and updates you need to participate a
 - [Getting Started with the Repo][readme-link]
 - [GitHub Docs: Pages](https://docs.github.com/en/pages)
 - [Sarvam AI Docs][sarvam-docs]
+- [React Quick Start](https://react.dev/learn)
+- [React w3schools](https://www.w3schools.com/REACT/DEFAULT.ASP)
+- [W3schools all your web needs](https://www.w3schools.com/)
+- [Github tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 ---
 
