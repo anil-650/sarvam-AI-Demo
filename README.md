@@ -1,6 +1,7 @@
 # Odia speech-to-speech demo
 This is a proof of concept for the Speec-to-Speech app created with React + Vite
 
+[Visit our hackathon page here](https://anil-650.github.io/sarvam-AI-Demo/)
 ## HOW TO RUN THE DEMO
 
 > [!NOTE]
