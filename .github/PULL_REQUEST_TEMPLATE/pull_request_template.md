@@ -1,17 +1,11 @@
-- [ ] Read the PR description
-    - [ ] Read through all the changes, considering the following questions.
-    - [ ] Is there anything you can praise about this PR? Start with praise.
-    - [ ] Are variable names brief but descriptive?
-    - [ ] Are new/changed functions no longer than a paragraph?
-    - [ ] Do all function parameters have default values where appropriate?
-    - [ ] Is the code clear and clean? (see Robert C. Martin's Clean Code
-    - [ ] Is there enough documentation?
-    - [ ] Does the programming style meet the requirements of the repository ()PEP8 for python, google for c++, etc.)
-    - [ ] Is the PR free of random cruft built files, swp files, etc.)(?
-    - [ ] Do all files in the PR belong in the repository?
-    - [ ] If the PR deletes files, is this appropriate?
-    - [ ] If the PR adds files or data, are these new files compatible with the repository license?
-    - [ ] Does this PR close an issue? If so, be sure to descriptively close this issue when the PR is merged.
-    - [ ] Make a review, leaving kind comments and suggesting changes where needed (to resolve the above).
-- [ ] When you approve of the PR, merge and close it.
-- [ ] Thank the author for their contribution.)
+- [ ] PR title is clear, descriptive, and follows the convention (if any)
+- [ ] Code compiles and runs without errors
+- [ ] All existing and new tests pass
+- [ ] Code is linted/formatted according to project standards
+- [ ] PR description explains the purpose and context of the changes
+- [ ] Linked to relevant issue(s) (if applicable)
+- [ ] Added/updated relevant documentation/comments
+- [ ] No sensitive information (keys, passwords, etc.) is included
+- [ ] Screenshots or demos attached for UI changes (if applicable)
+- [ ] Reviewer(s) assigned
+
