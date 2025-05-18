@@ -50,7 +50,7 @@ Improve the UI of the app
 
 1. Priyansu , Sanghamitra, Subhra (add a language indicator)
 2. Pravas, Madhumita (Add a voice play Button)
-
+3. Taufique, Swati, Aswini (1st pre-alpha ver. of andriod app)
 
 ---
 <!-- 
@@ -90,12 +90,12 @@ Improve the UI of the app
     - 9:30 PM IST
 - Tommorow (May 18)
     - 10:00 AM IST
-    - 12:00 PM IST
-    - 2:00 PM IST
-    - 4:00 PM IST
-    - 6:00 PM IST
-    - 8:00 PM IST
-    - 10:00 PM IST
+    - 12:30 PM IST
+    - 2:30 PM IST
+    - 4:30 PM IST
+    - 6:30 PM IST
+    - 8:30 PM IST
+    - 10:30 PM IST
 
 ---
 
